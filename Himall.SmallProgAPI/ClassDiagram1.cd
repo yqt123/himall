@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Himall.SmallProgAPI.ApiExceptionFilterAttribute" Collapsed="true">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoQAAAA=</HashCode>
+      <FileName>Base\ApiExceptionFilterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.BaseApiController&lt;TUser&gt;" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQkAAAAAAIAUAAAAgKAAAAAEAAAAAAEAQA=</HashCode>
+      <FileName>Base\BaseApiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.BaseApiController" Collapsed="true">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIEACAAAAAAAA=</HashCode>
+      <FileName>Base\BaseApiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.HimallApiActionFilter" Collapsed="true">
+    <Position X="50.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\HimallApiActionFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.HimallApiException" Collapsed="true">
+    <Position X="38" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAIAAABAA=</HashCode>
+      <FileName>Base\HimallApiException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.CartController" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAAAIAAEAAAAAAAABAAAQABAAQAAAAAAAAA=</HashCode>
+      <FileName>CartController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.CategoryController" Collapsed="true">
+    <Position X="24.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.CouponController" Collapsed="true">
+    <Position X="28.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABAAkAAABQAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>CouponController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.LimitTimeBuyController" Collapsed="true">
+    <Position X="33.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>LimitTimeBuyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.LoginController" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAABAAAAAIAAEAQAwAAAAAICAAAAEADAAAgAAAAA=</HashCode>
+      <FileName>LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.OrderController" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAFABAAQAogAAAAAAAAEAIgQAAABCUAAAEAAAA=</HashCode>
+      <FileName>OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.OrderRefundController" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAAIAAAAEAAAAEAAAEAAAAAAQAAAgAAAAAAgAAI=</HashCode>
+      <FileName>OrderRefundController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.PaymentController" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAEAEAAAAABAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>PaymentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ProductController" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBBGAAAACAAAAAAQAAAAAAAAQAEAAAAQQAAABAAgAAA=</HashCode>
+      <FileName>ProductController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ProductShowSkuInfoModel" Collapsed="true">
+    <Position X="41.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAEAAAAgBAAACAAAAAAAAAAAAAAAAAAgAgAAAA=</HashCode>
+      <FileName>ProductShowSkuInfoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.RegionController" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAABAAAAAA=</HashCode>
+      <FileName>RegionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ShippingAddressController" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAJAAAACAAAAAAgAAABAAAAAAAAAACAAI=</HashCode>
+      <FileName>ShippingAddressController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ShopAccountController" Collapsed="true">
+    <Position X="31" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAgAAAAEAAAAAgIACEABAAAAAAAQgEAgAAA=</HashCode>
+      <FileName>Shop\ShopAccountController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ShopInfoController" Collapsed="true">
+    <Position X="35.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAAACAABABAAAAAAEAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop\ShopInfoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ApplayWithDrawParam" Collapsed="true">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAACAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop\ShopInfoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ShopController" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACASwAAABIAKAAoAAAAAAAAkAQBAAAEEABQIABAAAI=</HashCode>
+      <FileName>ShopController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.UserCenterController" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAUCAAAACgAUBAEAAEAAYAAkAABAAAAAAIAAAAAA=</HashCode>
+      <FileName>UserCenterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.ApplayWithDraw" Collapsed="true">
+    <Position X="43.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserCenterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.VirtualOrderController" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VirtualOrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.ApiHelper" Collapsed="true">
+    <Position X="39.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIABAA=</HashCode>
+      <FileName>Helper\ApiHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.AppBaseInfoHelper" Collapsed="true">
+    <Position X="41.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAEwAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\AppBaseInfoHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.BrowseHistrory" Collapsed="true">
+    <Position X="46.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Helper\BrowseHistrory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.CartHelper" Collapsed="true">
+    <Position X="48.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAACAAEEAAACAQIAAAAIgAAAAACA=</HashCode>
+      <FileName>Helper\CartHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.MobileHomeProducts" Collapsed="true">
+    <Position X="45" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAIAIAAAAAIAAAABAAAgAAAEEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Helper\CartHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.LoginHelper" Collapsed="true">
+    <Position X="41.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\LoginHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.OrderHelper" Collapsed="true">
+    <Position X="50.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAEAQABE=</HashCode>
+      <FileName>Helper\OrderHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Helper.ShopServiceMark" Collapsed="true">
+    <Position X="45" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Helper\ShopServiceMark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.BaseResultModel" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAQAAAAAAAAAQAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Model\BaseResultModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.CartItemInfoModelcs" Collapsed="true">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACQAQCAABAoQAAgCgHEAQIgCAAAQACAIEAkAAiCAA=</HashCode>
+      <FileName>Model\CartItemInfoModelcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShoppingCartSendGift" Collapsed="true">
+    <Position X="43.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAFAAQAIAAAAAIAAAAAgAAAAAA=</HashCode>
+      <FileName>Model\CartItemInfoModelcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.GiftInfo" Collapsed="true">
+    <Position X="48.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAFAAQAABAAAAIAQAIAgAAAAAA=</HashCode>
+      <FileName>Model\CartItemInfoModelcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.CartItemModel" Collapsed="true">
+    <Position X="38" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhACAAAgAgAAAAhIBACAACAAAECACAAAAAAEAAAgA=</HashCode>
+      <FileName>Model\CartItemModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.CartProductModel" Collapsed="true">
+    <Position X="39.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>6CwCAAAEAQAAgBIAAAgAAAQAAAgAAgAACAAAgAAAAAA=</HashCode>
+      <FileName>Model\CartProductModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.CategoryModel" Collapsed="true">
+    <Position X="41.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAQAAAAAABAgAAAAAAAQAAA=</HashCode>
+      <FileName>Model\CategoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderCommentModel" Collapsed="true">
+    <Position X="48.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAQAAAAAAEAAoAAAAAAAgAAAAAAAAIAQAACAACAAA=</HashCode>
+      <FileName>Model\CommentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.FightGroupActiveDetailModel" Collapsed="true">
+    <Position X="46.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAIABQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FightGroupActiveDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.MyFightGroupPostJoinGroupsModel" Collapsed="true">
+    <Position X="46.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AECAAAQCIQAQQAAAAAAACAAAAAEAgAAEABAQAAIIAA=</HashCode>
+      <FileName>Model\MyFightGroupPostJoinGroupsModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderIntegralModel" Collapsed="true">
+    <Position X="38" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OrderIntegralModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundAfterSalePreCheckModel" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAABACAAAAAAIAAAgAAAgAAAAAAABAAAAA=</HashCode>
+      <FileName>Model\OrderRefundAfterSalePreCheckModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundGetExpressListModel" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OrderRefundGetExpressListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ExpressItem" Collapsed="true">
+    <Position X="45" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Model\OrderRefundGetExpressListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundGetListModel" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAEA=</HashCode>
+      <FileName>Model\OrderRefundGetListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundItem" Collapsed="true">
+    <Position X="39.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FoAAgAAEAAAAAKIGICICIAYQQQAAAgAIAgAIBJEAAAA=</HashCode>
+      <FileName>Model\OrderRefundGetListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundSku" Collapsed="true">
+    <Position X="41.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAQAAAAICAAAAAASAAAAAABAAAAAAgAAACAA=</HashCode>
+      <FileName>Model\OrderRefundGetListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundGetRefundDetailModel" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OrderRefundGetRefundDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundDetail" Collapsed="true">
+    <Position X="50.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgEAGAAAAAgICCCAAAAAAAAEEAgCAEBAAhIAIIQA=</HashCode>
+      <FileName>Model\OrderRefundGetRefundDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundDetailSKU" Collapsed="true">
+    <Position X="38" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAACAAAAAAAAAAAAAAAAAkAAIAAA=</HashCode>
+      <FileName>Model\OrderRefundGetRefundDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderRefundGetReturnDetailModel" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OrderRefundGetReturnDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ReturnDetail" Collapsed="true">
+    <Position X="43.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAgMEGAAAAAgICACAAAAAIAAFEAwCgEhAEhIAAIQA=</HashCode>
+      <FileName>Model\OrderRefundGetReturnDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderSubmitFightGroupOrderModel" Collapsed="true">
+    <Position X="43.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAwAAAAAABAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OrderSubmitFightGroupOrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderSubmitOrderByCartModel" Collapsed="true">
+    <Position X="45" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAQAAAAAAAQAAACAAAACCChAAAAAABAAAA=</HashCode>
+      <FileName>Model\OrderSubmitOrderByCartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderSubmitOrderModel" Collapsed="true">
+    <Position X="46.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAAABAAQAAACAAAACCChAAAAAgBAAAA=</HashCode>
+      <FileName>Model\OrderSubmitOrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.SmallProgSubmitOrderModel" Collapsed="true">
+    <Position X="48.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAEAAAAAAAAAAACACAAAAYAIgAAAAAAAEBAA=</HashCode>
+      <FileName>Model\OrderSubmitOrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.OrderSubmitPagePara" Collapsed="true">
+    <Position X="48.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAAAAAAAAAAAAACAEAAAAIAIAAAAAAAAABAA=</HashCode>
+      <FileName>Model\OrderSubmitPagePara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundApplyRefundPModel" Collapsed="true">
+    <Position X="46.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAgAAAAAABAAAAAAAAAQAAgCgGBAABBAAAQA=</HashCode>
+      <FileName>Model\ParaModel\RefundApplyRefundPModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundApplyReturnPModel" Collapsed="true">
+    <Position X="48.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAgAAAAAABAIAAAAIAAQAAgCgGBAAhBAAAQA=</HashCode>
+      <FileName>Model\ParaModel\RefundApplyReturnPModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundReturnSendGoodsPModel" Collapsed="true">
+    <Position X="39.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAgAAAAABAAAAAAAAAAAAAAAgAAAAABAAAAI=</HashCode>
+      <FileName>Model\ParaModel\RefundReturnSendGoodsPModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.RefundUploadAppletImagePModel" Collapsed="true">
+    <Position X="41.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ParaModel\RefundUploadAppletImagePModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShippingAddressDeletePModel" Collapsed="true">
+    <Position X="45" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ParaModel\ShippingAddressDeletePModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShippingAddressOperaAddressPModel" Collapsed="true">
+    <Position X="46.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAEAAAAABAAECAAAACIAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ParaModel\ShippingAddressOperaAddressPModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShippingAddressSetDefaultPModel" Collapsed="true">
+    <Position X="48.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ParaModel\ShippingAddressSetDefaultPModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ProductBrowsedHistoryModel" Collapsed="true">
+    <Position X="50.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAgIgAAAAAAAAABAAAAAAIAAA=</HashCode>
+      <FileName>Model\ProductBrowsedHistoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ProductDetailModelForMobie" Collapsed="true">
+    <Position X="38" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEACAAAAABAAgEAAAAEAAIAAAACAAAAAAAAAgAAgAAA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ProductInfoModel" Collapsed="true">
+    <Position X="39.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAgAAIAgAAAAEACAAAIQRAQAAAAAEAAAAAAAIAAA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.CollectionSKU" Collapsed="true">
+    <Position X="43.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ProductSKU" Collapsed="true">
+    <Position X="43.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAIAAAAAAAQAAAQAAAAAgAAgAAAAAAA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.HotProductInfo" Collapsed="true">
+    <Position X="39.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAYAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShopInfoModel" Collapsed="true">
+    <Position X="39.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCQAEAACCACAAAEAAAAAQAAAIAAAICAABQIAAQAEA=</HashCode>
+      <FileName>Model\ProductDetailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ProductSKUModel" Collapsed="true">
+    <Position X="45" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ProductSKUModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShopCartItemModel" Collapsed="true">
+    <Position X="50.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAIABABACAgAAACACgAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\ShopCartItemModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShopFightGroupModel" Collapsed="true">
+    <Position X="38" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAEASAAACAAgSAIAJAgQAABAAAAAAIIAAA=</HashCode>
+      <FileName>Model\ShopFightGroupModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShopMsgModel" Collapsed="true">
+    <Position X="41.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAEAAAAAQAAAAAAAAAAAAAAABgAAAAAAAAAAEAA=</HashCode>
+      <FileName>Model\ShopMsgModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ShopServiceMarkModel" Collapsed="true">
+    <Position X="46.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAEA=</HashCode>
+      <FileName>Model\ShopServiceMarkModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.StoreInfoModel" Collapsed="true">
+    <Position X="50.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAYAEAAwAAAAAAAAAJAAACEgAAAAAAAAAAQgAAAAA=</HashCode>
+      <FileName>Model\StoreInfoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.StorePasswordInfoModel" Collapsed="true">
+    <Position X="38" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Model\StoreInfoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.VShopShowPromotionModel" Collapsed="true">
+    <Position X="39.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEACAAAAAAAAAgAAAAAgABAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\VShopShowPromotionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.WeiXinOpenIdModel" Collapsed="true">
+    <Position X="43.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\WeiXinOpenIdModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.WXAppletFormDataModel" Collapsed="true">
+    <Position X="45" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAkAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Model\WXAppletFormDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.WxAppletUserInfo" Collapsed="true">
+    <Position X="46.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAEAgABAAAAAAAiAAAAQAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Model\WxAppletUserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.WaterMark" Collapsed="true">
+    <Position X="41.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Model\WxAppletUserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Himall.SmallProgAPI.Model.ParamsModel.LoginModPwdModel" Collapsed="true">
+    <Position X="43.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAAAEAAAAA=</HashCode>
+      <FileName>Model\LoginModPwdModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Himall.SmallProgAPI.ApiErrorCode" Collapsed="true">
+    <Position X="38" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEQAAAAkABAAAACEQoAglAAAAAAAGQAAAAAAAJAAA=</HashCode>
+      <FileName>Base\ApiErrorCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

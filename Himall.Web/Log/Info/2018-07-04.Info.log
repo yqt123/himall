@@ -1,0 +1,427 @@
+
+
+
+ 记录时间：2018-07-04 11:07:33,974 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:07:33,988 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:07:33,999 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:07:34,012 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:07:34,025 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-04 11:07:34,038 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:07:34,052 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-04 11:29:19,233 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-04 11:30:21,132 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-04 11:31:03,765 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-04 11:43:23,668 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,727 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,733 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,741 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,742 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,743 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,781 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,809 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:43:23,840 
+日志级别：  INFO  
+出错类：Himall.Service.MessageService.SendMessageOnOrderCreate  
+错误描述：手机错误 
+
+Himall.Core.HimallException: 手机错误
+
+
+
+ 记录时间：2018-07-04 11:43:27,743 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:43:27,807 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-04 11:44:53,176 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:44:53,177 
+日志级别：  INFO  
+出错类：Himall.WeixinPaymentBase.ServiceBase.CheckCanEnable  
+错误描述：未设置AppId 
+
+Himall.Core.PluginConfigException: 未设置AppId
+
+
+
+ 记录时间：2018-07-04 11:45:19,082 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:45:19,105 
+日志级别：  INFO  
+出错类：Himall.Plugin.Payment.Alipay_App.Service.CheckCanEnable  
+错误描述：未设置商户支付宝! 
+
+Himall.Core.PluginConfigException: 未设置商户支付宝!
+
+
+
+ 记录时间：2018-07-04 11:46:25,325 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,327 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,329 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,331 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,333 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,335 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,437 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,439 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,553 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,555 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-04 11:46:25,583 
+日志级别：  INFO  
+出错类：Himall.Service.MessageService.SendMessageOnOrderCreate  
+错误描述：手机错误 
+
+Himall.Core.HimallException: 手机错误
+
+
+
+ 记录时间：2018-07-04 17:36:54,513 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,552 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,581 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,595 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,608 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,640 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-04 17:36:54,649 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+

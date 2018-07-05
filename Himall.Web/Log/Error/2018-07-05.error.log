@@ -1,0 +1,22 @@
+
+
+
+ 记录时间：2018-07-05 10:57:49,630 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-05 14:12:04,242 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)

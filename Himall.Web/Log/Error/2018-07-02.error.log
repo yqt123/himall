@@ -1,0 +1,992 @@
+
+
+
+ 记录时间：2018-07-02 10:31:10,218 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-02 10:31:20,617 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:21,667 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:21,987 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:23,794 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:23,966 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:24,055 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:24,129 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:31:24,208 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:34:19,254 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:34:20,022 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:34:20,543 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:34:20,686 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:34:20,834 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:29,979 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-02 10:55:36,795 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:37,791 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:38,080 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:39,561 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:39,826 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:39,943 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:40,008 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:55:40,172 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 10:57:49,944 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-02 11:16:07,045 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-02 11:16:16,116 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:17,112 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:17,429 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:19,044 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:19,690 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:20,031 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:20,289 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:16:20,375 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:32:59,471 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:00,265 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:00,417 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:01,156 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:01,924 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:02,544 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:02,635 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 11:33:02,709 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tPEd4NnDV9qmsx1tqB3jX1O 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 12:07:41,367 
+日志级别：  ERROR 
+出错类：Himall.Application.OrderApplication+<>c__DisplayClass39_0.<ChargePay>b__1  
+错误描述：支付页面加载支付插件出错 
+
+Himall.Core.Plugins.PluginException: 调用统一支付接口(Native)时,接口返回异常:签名错误
+   在 Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay.GetRequestUrl(String returnUrl, String notifyUrl, String orderId, Decimal totalFee, String productInfo, String openId)
+   在 Himall.Application.OrderApplication.<>c__DisplayClass39_0.<ChargePay>b__1(Plugin`1 item) 位置 F:\Src\Himall.Application\OrderApplication.cs:行号 932
+
+
+
+ 记录时间：2018-07-02 12:09:07,813 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Web,Controller:UserCapital,Action:ApplyWithDraw,id:Get:post: 
+
+Senparc.Weixin.Exceptions.ErrorJsonResultException: 微信请求发生错误！错误代码：40013，说明：invalid appid hint: [M4q4Fa00221512]
+   在 Senparc.Weixin.HttpUtility.Get.GetJson[T](String url, Encoding encoding)
+   在 Senparc.Weixin.MP.CommonAPIs.CommonApi.GetToken(String appid, String secret, String grant_type)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.GetTokenResult(String appId, Boolean getNewToken)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.GetToken(String appId, Boolean getNewToken)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.TryGetToken(String appId, String appSecret, Boolean getNewToken)
+   在 Himall.Web.Areas.Web.Controllers.UserCapitalController.ApplyWithDraw() 位置 F:\Src\Himall.Web\Areas\Web\Controllers\UserCapitalController.cs:行号 163
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 14:54:05,585 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.UserCookieEncryptHelper.Decrypt  
+错误描述：解密用户标识Cookie出错，Cookie密文：hF7uytZtMMtp/iBCnwVKWFEbg6RZanG1QuSli1b61tMyOkUDlzCqsXGQqMnUOZNr 
+
+System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]& outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast)
+   在 System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   在 System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.IO.Stream.Dispose()
+   在 Himall.Core.Helper.SecureHelper.AESDecrypt(String decryptStr, String decryptKey)
+   在 Himall.Web.Framework.UserCookieEncryptHelper.Decrypt(String userIdCookie, String role) 位置 F:\Src\Himall.Web.Framework\UserCookieEncryptHelper.cs:行号 58
+
+
+
+ 记录时间：2018-07-02 15:12:05,051 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:GetMemberCapitals,id:Get:post:user=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass6_0.<GetMemberCapitals>b__0(CapitalInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 61
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 15:12:19,597 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 15:44:48,301 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(F:\Src\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile)
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName)
+
+
+
+ 记录时间：2018-07-02 16:00:11,938 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 16:00:57,546 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 16:05:43,545 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 16:10:39,480 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 16:25:40,167 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Admin,Controller:Capital,Action:ApplyWithDrawList,id:Get:post:capitalType=0&user=&withdrawno=&page=1&rows=15 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Admin.Controllers.CapitalController.<>c__DisplayClass11_0.<ApplyWithDrawList>b__0(ApplyWithDrawInfo e) 位置 F:\Src\Himall.Web\Areas\Admin\Controllers\CapitalController.cs:行号 198
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeEnumerable(IEnumerable enumerable, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeCustomObject(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValueInternal(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.SerializeValue(Object o, StringBuilder sb, Int32 depth, Hashtable objectsInUse, SerializationFormat serializationFormat, MemberInfo currentMember)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, StringBuilder output, SerializationFormat serializationFormat)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Serialize(Object obj, SerializationFormat serializationFormat)
+   在 System.Web.Mvc.JsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 17:09:33,405 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Web,Controller:product,Action:GetProductShipAndLimit,id:Get:post:id=1273&shopId=377&templateId=0 
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Himall.Web.Areas.Web.Controllers.ProductController.GetProductShipAndLimit(Int64 id, Int64 shopId, Int64 templateId) 位置 F:\Src\Himall.Web\Areas\Web\Controllers\ProductController.cs:行号 1370
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+
+
+ 记录时间：2018-07-02 18:33:49,119 
+日志级别：  ERROR 
+出错类：Himall.Web.Framework.BaseController.OnException  
+错误描述：页面未捕获的异常：Area:Web,Controller:UserCapital,Action:ApplyWithDraw,id:Get:post: 
+
+Senparc.Weixin.Exceptions.ErrorJsonResultException: 微信请求发生错误！错误代码：40013，说明：invalid appid hint: [xFf0111sha2]
+   在 Senparc.Weixin.HttpUtility.Get.GetJson[T](String url, Encoding encoding)
+   在 Senparc.Weixin.MP.CommonAPIs.CommonApi.GetToken(String appid, String secret, String grant_type)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.GetTokenResult(String appId, Boolean getNewToken)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.GetToken(String appId, Boolean getNewToken)
+   在 Senparc.Weixin.MP.CommonAPIs.AccessTokenContainer.TryGetToken(String appId, String appSecret, Boolean getNewToken)
+   在 Himall.Web.Areas.Web.Controllers.UserCapitalController.ApplyWithDraw() 位置 F:\Src\Himall.Web\Areas\Web\Controllers\UserCapitalController.cs:行号 163
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)

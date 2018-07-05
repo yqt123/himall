@@ -1,0 +1,294 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="apple-touch-fullscreen" content="yes">
+	<meta name="format-detection" content="telephone=no, address=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<title>商品详情</title>
+	<script>
+		(function() {
+			var baseFontSize = 100;
+			var baseWidth = 320;
+			var clientWidth = document.documentElement.clientWidth || window.innerWidth;
+			var innerWidth = Math.max(Math.min(clientWidth, 480), 320);
+
+			var rem = 100;
+
+			if (innerWidth > 362 && innerWidth <= 375) {
+				rem = Math.floor(innerWidth / baseWidth * baseFontSize);
+				//rem = Math.floor(innerWidth / baseWidth * baseFontSize * 0.9);
+			}
+
+			if (innerWidth > 375) {
+				rem = Math.floor(innerWidth / baseWidth * baseFontSize);
+				//rem = Math.floor(innerWidth / baseWidth * baseFontSize * 0.84);
+			}
+
+			window.__baseREM = rem;
+			document.querySelector('html').style.fontSize = rem + 'px';
+		}());
+	</script>
+	<link rel="stylesheet" href="/Content/bootstrap.min.css">
+	<link rel="stylesheet" href="/Areas/Mobile/Templates/Default/Content/custom.css">
+	
+	<script src="/Scripts/jquery-1.7.1.min.js"></script>
+	<script src="/Scripts/CommonJS.js"></script>
+	<script src="/Areas/Mobile/Templates/Default/Scripts/custom.js"></script>
+	<script src="/Areas/Mobile/Templates/Default/Scripts/buylib.js"></script>
+	<script src="/Scripts/imitateRequire.js"></script>
+	<script>
+		imitateRequireJS.addJsFile([{
+			group: 'common',
+			fileNames: [
+				{ nickName: 'jquery.artDialog', fileName: 'jquery.artDialog.js' },
+				{ nickName: 'artDialog', fileName: 'artDialog.iframeTools.js', depends: ['jquery.artDialog'] },
+			]
+		}]);
+	</script>
+</head>
+<body>
+	<!--_Base start-->
+	<script>
+		var areaName = 'm-Wap';
+		var MAppType = '';
+	</script>
+	
+<input type="hidden" id="gid" value="699" />
+<input type="hidden" id="categoryId" value="3" />
+<input type="hidden" id="has" value="1" />
+<div id="J_shop_att"></div>
+<div class="container container-z">
+    <div class="detail-hd">
+        <div id="slides">
+        </div>
+    </div>
+    <a class="dis-info-a bt_share" id="dis-brokerage-box" style="display:none;">赚<span id="dis-brokerage">00.00</span>元</a>
+    <div class="detail-bd">
+        <div class="goods-info">
+            <div id="preheat"></div>
+            <div class="item">
+                <div class="goods-price" id="jd-price">
+                    <span id="jd-saleprice"></span>
+                    <s>￥59.90</s>
+                </div>
+                <h4>三只松鼠_开口松子218gx2袋零食坚果特产炒货东北红松子原味</h4>
+                <h5></h5>
+            </div>
+            <div class="item promotion-wrap" id="divCoupon">
+                <div class="promotion">
+                    <ul class="promotion-list" id="showPromotion">
+                    	<li class="promotion-coupon spec-arrow" style="display:none;" onclick="showPortfolio()"><a href="javascript:;">
+                            <span id="activespan"><i class="coupon-tip">促销优惠</i></span></a>
+                        </li>
+                    </ul>
+                </div>
+              
+                    <div id="productColloCation"></div>
+                    <div class="goods-address" id="showDeportAddress">
+                    </div>
+                    
+<ul class="ensary j_ensary">
+            <li class="flex-center"><i>消费者保障</i></li> </ul>
+<input data-val="true" data-val-number="字段 Int64 必须是一个数字。" id="shopId" name="shopId" type="hidden" value="1" />
+<input data-val="true" data-val-number="字段 Int64 必须是一个数字。" id="productId" name="productId" type="hidden" value="699" />
+</div>
+        </div>
+         <div class="item detail-comment j_storesInfo product-store-title"  style="display:none">
+             <div class="goods-comment">
+                         <h1><b class="j_storeName"></b><span class="j_distanceUnit"></span><i class="ic-arrow"></i></h1> 
+                         <p class="j_storeAddress"></p>
+                         <a class="j_storelist btn btn-default" href="/m-wap/shopbranch/storelist?shopid=1"></a>
+             </div>
+        </div>
+        
+        <div class="item detail-comment">
+            <div class="detail-comment-hd">
+                商品评价
+                <span class="detail-comment-num">0</span>
+            </div>
+            <div id="productCommentShow">
+            </div>
+            <div class="detail-comment-ft">
+                <a class="btn btn-default" href="../ProductComment?pId=699&commentType=0">查看全部评价</a>
+            </div>
+        </div>
+
+        
+<div class="item shop-wrap">
+    <div class="shop-hd">
+        <div class="shop-logo"><img src="/Storage/Shop/1/VShop/201702141734365302700.png"></div>
+        <h4>Ti2222222</h4>
+        <div class="shop-hd-info">
+            <span>宝贝数<strong>41</strong></span>
+            <span>关注人数<strong>4</strong></span>
+        </div>
+    </div>
+    <ul class="shop-bd clearfix">
+        <li>商品：<strong>5.00</strong></li>
+        <li>发货：<strong>5.00</strong></li>
+        <li>服务：<strong>5.00</strong></li>
+    </ul>
+    <div class="shop-ft clearfix">
+        <span><a class="btn btn-default" id="bt_govshop" href="/m-Wap/vshop/detail/10" vshopid="10">进入店铺</a></span>
+        <span><a class="btn btn-default " id="addShopFavorite" shopid="1">关注</a></span>
+    </div>
+</div>
+
+<script src="/Areas/Mobile/Templates/Default/Scripts/ShowShopScore.js"></script>
+
+        <div id="productColloCation">
+        </div>        
+        
+        
+    <div class="item details-link">
+        <a href="javascript:void(0)" id="showmoreprodesc"><span>查看更多详情</span></a>
+    </div>
+    <div class="goods-img" id="prodesccon"></div>
+    <div id="autoLoad" class="loading"></div>
+<input id="gid_desc" name="gid_desc" type="hidden" value="699" />
+<script src="/Areas/Mobile/Templates/Default/Scripts/ProductShowProductDescription.js"></script>
+<script src="/Scripts/jquery.scrollLoading.min.js"></script>
+<script src="/Areas/Mobile/Templates/Default/Scripts/loading.js"></script>
+
+        <div class="right" style="display:none;background:#fff">
+            <div class="relation-title text-center"><span>猜你喜欢</span></div>
+            <div id="relationProducts" class="clearfix">
+                <template>
+                    <a class="relation-pro clearfix" href="/m-wap/Product/detail/{{id}}">
+                        <div class="relation-pro-img">
+                            <img src="{{imagePath}}" />
+                        </div>
+                        <p class="relation-pro-price"><i>￥</i>{{minSalePrice}}</p>
+                        <p class="relation-pro-name">{{productName}}</p>
+                    </a>
+                </template>
+            </div>
+        </div>
+    </div>
+</div>
+<section id="s-actionBar-container">
+    <div id="s-actionbar" class="action-bar">
+        <div class="cell tocart icon-cart-c">
+            购物车
+            <a href="/m-Wap/Cart/Cart"></a>
+            <span class="plus-one">1</span>
+        </div>
+    </div>
+</section>
+<input type="hidden" id="proDesc" value="&lt;ul id=&quot;parameter-brand&quot; class=&quot;p-parameter-list list-paddingleft-2&quot;&gt;&lt;li&gt;&lt;p&gt;品牌： &lt;a href=&quot;https://list.jd.com/list.html?cat=1320,1583,1591&amp;ev=exbrand_27776&quot; clstag=&quot;shangpin|keycount|product|pinpai_2&quot; target=&quot;_blank&quot;&gt;三只松鼠（Three Squireels）&lt;/a&gt;
+ &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;https://item.jd.com/1013722242.html#none&quot; clstag=&quot;shangpin|keycount|product|guanzhupinpai&quot; class=&quot;follow-brand btn-def&quot;&gt;&lt;strong&gt;♥&lt;/strong&gt;关注&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul id=&quot;parameter2&quot; class=&quot;p-parameter-list list-paddingleft-2&quot;&gt;&lt;li&gt;&lt;p&gt;商品名称：三只松鼠_开口松子218gx2袋零食坚果特产炒货东北红松子原味&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;商品编号：1013722242&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;店铺： &lt;a href=&quot;https://3songshu.jd.com/&quot; target=&quot;_blank&quot;&gt;三只松鼠旗舰店&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;商品毛重：436.00g&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;货号：D6956511900336&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;口味：原味&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;价位：30-59&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特性：带皮&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;国产/进口：国产&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;分类：松子&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;包装：其它　&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;包装单位：袋装&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;more-par&quot;&gt;&lt;a href=&quot;https://item.jd.com/1013722242.html#product-detail&quot; class=&quot;J-more-param&quot;&gt;更多参数&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;990&quot; style=&quot;width: 625px;&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;firstRow&quot;&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;a href=&quot;https://3songshu.jd.com/&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/15e7dd618a5746409c4d45ddba479616.jpg&quot; width=&quot;990&quot; height=&quot;395&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://coupon.jd.com/ilink/couponActiveFront/front_index.action?key=5990c0f2cd434a1e9e6d742ef4f6e1aa&amp;roleId=5476594&amp;to=3songshu.jd.com&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/e78448388eb343bebb8197df77cadb3f.jpg&quot; width=&quot;248&quot; height=&quot;162&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://coupon.jd.com/ilink/couponActiveFront/front_index.action?key=8ab86e0bf1104170b5afdd223e06d8e3&amp;roleId=5476598&amp;to=3songshu.jd.com&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/de95e4db91ad4e799d078249b963d1e6.jpg&quot; width=&quot;248&quot; height=&quot;162&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://sale.jd.com/act/GpvHiy6rSxjYd1NT.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/4d01d45845e240e3bccac652aedd537d.jpg&quot; width=&quot;248&quot; height=&quot;162&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://sale.jd.com/act/zlbyo5YPFsp.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/e2b2c894318d4164a03060b26f51c68d.jpg&quot; width=&quot;246&quot; height=&quot;162&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/1014341394.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/e15455a9770f404c8f97f5be08c3924a.jpg&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/1018421638.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/47b8dc6e31da4d269fb08431ff74cfc7.jpg&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/10061035713.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/47cf5e3414eb4572b0be438694d97f56.jpg&quot; width=&quot;248&quot; height=&quot;270&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/10900859415.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/b7bfbd55b7194f8cb26a1807e8a6c34a.jpg&quot; width=&quot;246&quot; height=&quot;270&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/1582161447.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/33ae1888ff794c95bd1dd46a8c49446a.jpg&quot; width=&quot;248&quot; height=&quot;280&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/1601589482.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/6e6575f29f384cb2900cddbfcccaf072.jpg&quot; width=&quot;248&quot; height=&quot;280&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/1601632347.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/9e42d5a8bc194515bd1fbd7308c7bd2e.jpg&quot; width=&quot;248&quot; height=&quot;280&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://item.jd.com/10422380333.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/Storage/Shop/1/Products/699/remark/f90d704c604b484fa0e8c50bde8bba0f.jpg&quot; width=&quot;246&quot; height=&quot;280&quot;/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2245/136/2729287964/322296/b680fe4/57175621Nbd4579e3.jpg&quot; alt=&quot;&quot; id=&quot;00e007caa37e4b25b575fbd254717de2&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t1951/76/2727596032/343744/184b0fc2/57175622Nd678d2bf.jpg&quot; alt=&quot;&quot; id=&quot;efb55fbeed4e4ba6b3bb1b2781f7c4aa&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2875/147/518214398/282404/3080f341/57175622Neaa9da14.jpg&quot; alt=&quot;&quot; id=&quot;80c4974024794684808b46e9bc92cc01&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2158/340/2790905661/192550/f04844eb/57175622Neb3b4a1a.jpg&quot; alt=&quot;&quot; id=&quot;ff1164dc67784b719e4afedb14ea4182&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2716/225/515636023/365982/cf73b87d/57175623Ne40c1a7c.jpg&quot; alt=&quot;&quot; id=&quot;178501f9309f4f1a88b79bd0c399683a&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2803/307/513296203/265046/cd0b0eb2/57175623Nbfc86251.jpg&quot; alt=&quot;&quot; id=&quot;967e7b85f87b4a9d848e1723693144b7&quot;/&gt; &lt;br/&gt; &lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2896/179/505289072/230040/a848de99/57175623N72c7af09.jpg&quot; alt=&quot;&quot; id=&quot;c31b74f5d0914a26babaeb7be5e30b25&quot;/&gt;&amp;nbsp; 
+&lt;img data-lazyload=&quot;//img30.360buyimg.com/popWareDetail/jfs/t2740/55/517409922/322817/a718d4a3/57175624Na185d8fd.jpg&quot; alt=&quot;&quot; id=&quot;96b889a1e3fe4d978aedcbfa1f990e19&quot;/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/9735abe458c947c980798d4afba62afa.jpg&quot; alt=&quot;&quot; id=&quot;703ae2825c3f45778006bcdffbb0fe29&quot;/&gt;&lt;br/&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/a533973ddced4c23ab0796541b38d42d.gif&quot; alt=&quot;&quot; id=&quot;a23768f1ef5247f19f3f46f0bbb5621f&quot;/&gt;&lt;br/&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/f916a971b22544d09174b3cad40d57b1.jpg&quot; alt=&quot;&quot; id=&quot;f870a148d5644cef9d77964dd8464fc8&quot;/&gt;&lt;br/&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/3b8cd6817ef64183aa3da95c6e7bb9be.jpg&quot; alt=&quot;&quot; id=&quot;2659821d3e50424bb5da676954720e01&quot;/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/950ba545abfc4109b4a9e96c5bd0ee28.jpg&quot; alt=&quot;&quot; id=&quot;6c992aadac684e7088ebbb8ead53d017&quot;/&gt;&lt;br/&gt;&lt;img src=&quot;/Storage/Shop/1/Products/699/remark/a340088180664b4597f7744bdc555385.jpg&quot; alt=&quot;&quot; id=&quot;8ad9e83975284676bcb3018de83696f1&quot;/&gt;&lt;/p&gt;" />
+<input type="hidden" id="shopId" value="1" />
+<input type="hidden" id="couponUrl" value="/m-wap/coupon/ShopCouponList" />
+<input type="hidden" id="skuUrl" value="/m-wap/Product/GetSKUInfo" />
+    <script>
+        var winxinShareArgs = {
+            share: {
+                title: '三只松鼠_开口松子218gx2袋零食坚果特产炒货东北红松子原味',
+                desc: '三只松鼠_开口松子218gx2袋零食坚果特产炒货东北红松子原味',
+                link: location.href,
+                imgUrl: 'http://localhost:60362//Storage/Shop/1/Products/699/1_150.png',
+                success: null,
+                cancel: null,
+                fail: null,
+                complete: null,
+                trigger: null
+            }
+        };
+    </script>
+    <!--_WeiXinShare start-->
+    <script src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script src="/Areas/Mobile/Templates/Default/Scripts/WeiXinShare.js"></script>
+    <!--_WeiXinShare end-->
+<script src="https://map.qq.com/api/js?v=2.exp&libraries=convertor"></script>
+<script src="https://3gimg.qq.com/lightmap/components/geolocation/geolocation.min.js"></script>
+<script src="/Areas/Mobile/Templates/Default/Scripts/ProductDetail.js"></script>
+<script src="/Areas/Mobile/Templates/Default/Scripts/ProductDistributionBrokerage.js"></script>
+<script src="/Scripts/jquery.cookie.js"></script>
+<script src="/Scripts/jquery.slides.min.js"></script>
+<a class="WX-backtop"></a>
+<div id="ShopCoupon"></div>
+<div id="portfolioCoupon">
+	<div class="modul-popup">
+	    <div class="modul-popup-container sale-popup-container">
+	        <div class="sale-popup-header"></div>
+	        <div class="sale-popup-body">
+	            <div class="modul-scroll">
+	                <table class="sale-table" width="100%">
+	                        <tbody id="activeList">
+	                    	</tbody>
+	                </table>
+                </div>
+	        </div>
+	        <div class="sale-popup-footer">
+	            <a href="javascript:" class="modul-popup-close sale-popup-close"></a>
+	        </div>
+	    </div>
+	</div>
+</div>
+
+
+
+<!--_Aside start-->
+<div id="_Aside_CustomServices">
+</div>
+<script src="/Areas/Mobile/Templates/Default/Scripts/_Aside.js"></script>
+
+	<div class="wx_aside">
+            <!-- 更多 -->
+			<a href="javascript:;" class="btn_more"></a>
+				<div class="wx_aside_item">
+					<a href="/m-Wap" class="home">首页</a>
+					<a href="/m-Wap/Vshop" class="vshop">微店</a>
+					<a href="/m-Wap/Category" class="classify">分类</a>
+					<a href="/m-Wap/Cart/Cart" class="f-cart">购物车</a>
+					<a href="/m-Wap/Member/Center" class="user">个人中心</a>
+				</div>
+	</div>
+<!--_Aside end-->
+
+	<script src="/Scripts/jquery.nicescroll.min.js"></script>
+	<script src="/Areas/Mobile/Templates/Default/Scripts/_Base.js"></script>
+	<link rel="stylesheet" href="/Areas/Mobile/Templates/Default/Content/artdialog.css">
+	<script src="/Scripts/jquery.artDialog.js"></script>
+	<script src="/Scripts/artDialog.iframeTools.js"></script>
+	<script src="/Scripts/jquery.cookie.js"></script>
+	<script src="/Scripts/jquery.scrollLoading.min.js"></script>
+
+		
+
+		<script>
+		(function () {
+			var data= null;
+			if (data) {
+				var callback;
+				if (data.goBack == true)
+					callback = function () { history.go(-1); };
+				var fun;
+				if (data.type == -1)
+					fun='errorTips';
+				else if(data.type==0)
+					fun='alert';
+				else if (data.type == 1)
+					fun='alertTips';
+				else if (data.type == 2)
+					fun='succeedTips';
+				if(fun)
+					$.dialog[fun](data.message,callback,data.time);
+			}
+		})();
+</script>
+	<!--_Base end-->
+
+<!-- Visual Studio Browser Link -->
+<script type="application/json" id="__browserLink_initializationData">
+    {"appName":"Unknown","requestId":"23d0419d656e4e618d44d0f6a0474a15"}
+</script>
+<script type="text/javascript" src="http://localhost:49632/b80545217c3e4a11966f595c65f544b2/browserLink" async="async"></script>
+<!-- End Browser Link -->
+
+</body>
+</html>

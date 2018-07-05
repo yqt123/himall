@@ -1,0 +1,1903 @@
+
+
+
+ 记录时间：2018-07-02 10:31:10,266 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,281 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,293 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,309 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,321 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,336 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:31:10,348 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,014 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,047 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,060 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,074 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,089 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,102 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:55:30,111 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 10:55:57,610 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 10:55:59,557 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 10:57:49,971 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:57:49,983 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:57:49,994 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:57:50,010 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:57:50,023 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-02 10:57:50,036 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-02 10:57:50,052 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 11:16:03,780 
+日志级别：  INFO  
+出错类：Himall.Web.MvcApplication.Application_End  
+错误描述：2018/7/2 11:16:03 -  http://localhost:60362 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,076 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,090 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,104 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,119 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,137 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,153 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-02 11:16:07,173 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 11:16:37,180 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 11:33:12,338 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 11:33:58,670 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 11:34:22,542 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.CheckCheckCode  
+错误描述：30分钟内登录错误3次以上需要提供验证码 
+
+Himall.Web.Areas.Web.LoginException: 30分钟内登录错误3次以上需要提供验证码
+
+
+
+ 记录时间：2018-07-02 11:38:52,383 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 11:48:10,635 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:10,678 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 11:48:10,684 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 11:48:10,987 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:11,022 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 11:48:11,955 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:11,956 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 11:48:51,952 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:51,953 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 11:48:51,954 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 11:48:52,094 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:52,095 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 11:48:52,154 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 11:48:52,155 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,131 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,134 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,137 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,142 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,144 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,145 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,189 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:05:58,231 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:06:48,532 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 12:06:48,600 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 12:06:48,602 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 12:06:48,647 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,001 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,006 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,010 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,011 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,014 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 12:07:41,326 
+日志级别：  INFO  
+出错类：Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay.GetRequestUrl  
+错误描述：调用统一支付接口(Native)时,接口返回异常:签名错误 
+
+Himall.Core.Plugins.PluginException: 调用统一支付接口(Native)时,接口返回异常:签名错误
+
+
+
+ 记录时间：2018-07-02 12:07:41,327 
+日志级别：  INFO  
+出错类：Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay.GetRequestUrl  
+错误描述：调用统一支付接口(Native)时,接口返回异常:签名错误 
+
+Himall.Core.Plugins.PluginException: 调用统一支付接口(Native)时,接口返回异常:签名错误
+
+
+
+ 记录时间：2018-07-02 12:07:41,370 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,550 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,552 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,553 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,766 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,767 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,832 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 12:07:58,835 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,185 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,187 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,188 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,389 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,390 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,447 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 14:41:20,448 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 14:54:46,029 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.LoginController.Login  
+错误描述：用户名和密码不匹配 
+
+Himall.Core.HimallException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 15:00:31,763 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:00:31,788 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:00:31,811 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:00:31,844 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:00:43,549 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:02:14,745 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.MemberIntegralController.Save  
+错误描述：该用户不存在 
+
+Himall.Core.HimallException: 该用户不存在
+
+
+
+ 记录时间：2018-07-02 15:12:58,973 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:12:58,975 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 15:12:58,976 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:12:59,149 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:12:59,150 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:12:59,214 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:12:59,216 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,354 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,404 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_App.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,418 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_QRCode.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,430 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.Alipay_WAP.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,445 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.UnionPay.UnionPay 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,459 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:44:48,472 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].set_WorkDirectory  
+错误描述：set WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 15:47:17,773 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:47:17,847 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 15:47:17,857 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:47:18,255 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:47:18,302 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:47:19,245 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:47:19,247 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:47:44,384 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:47:44,447 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.Alipay.Service 
+
+
+
+
+ 记录时间：2018-07-02 15:47:44,449 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 15:47:44,481 
+日志级别：  INFO  
+出错类：Himall.PaymentPlugin.PaymentBase`1[T].get_WorkDirectory  
+错误描述：get WorkDirectory:Himall.Plugin.Payment.WeiXinPay_Native.WeiXinPay 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,073 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,074 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,075 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,161 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,162 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,163 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,194 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:48:41,243 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,322 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,324 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,326 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,611 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,614 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,684 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 15:50:00,687 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 15:59:46,094 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Admin.Controllers.LoginController.Login  
+错误描述：用户名和密码不匹配 
+
+Himall.Core.HimallException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 16:21:59,582 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:21:59,584 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:21:59,584 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:23:55,032 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:23:55,034 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:23:55,035 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:25:05,439 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:25:05,440 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:25:05,441 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,282 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,284 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,284 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,286 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,287 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,288 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,319 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,321 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:26:29,351 
+日志级别：  INFO  
+出错类：Himall.Service.MessageService.SendMessageOnShopAudited  
+错误描述：手机错误 
+
+Himall.Core.HimallException: 手机错误
+
+
+
+ 记录时间：2018-07-02 16:44:01,782 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-02 16:44:33,926 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-02 16:44:54,170 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-02 16:49:03,767 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,807 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,807 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,809 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,810 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,811 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,846 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---sss 
+
+
+
+
+ 记录时间：2018-07-02 16:49:03,847 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageContentConfig  
+错误描述：email2---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:04:27,600 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.LoginController.UserLoginIn  
+错误描述：用户名和密码不匹配 
+
+Himall.Web.Areas.Web.LoginException: 用户名和密码不匹配
+
+
+
+ 记录时间：2018-07-02 17:05:00,285 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,287 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,288 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,486 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,489 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,568 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:05:00,569 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:09:19,943 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-02 17:09:47,139 
+日志级别：  INFO  
+出错类：Himall.Web.Areas.Web.Controllers.ProductController.Detail  
+错误描述：很抱歉，您查看的商品不存在，可能被转移。 
+
+Himall.Core.HimallException: 很抱歉，您查看的商品不存在，可能被转移。
+
+
+
+ 记录时间：2018-07-02 17:31:50,181 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,183 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,184 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,496 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,498 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,562 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 17:31:50,564 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 18:32:57,815 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---sss 
+
+
+
+
+ 记录时间：2018-07-02 18:32:57,817 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email2---:?<?xml version="1.0" encoding="utf-8" ?>
+<MessageStatus>
+  <OrderCreated>1</OrderCreated>
+  <OrderPay>1</OrderPay>
+  <OrderShipping>1</OrderShipping>
+  <OrderRefund>1</OrderRefund>
+  <RefundDeliver>1</RefundDeliver>
+  <FindPassWord>1</FindPassWord>
+  <ShopAudited>1</ShopAudited>
+  <ShopHaveNewOrder>3</ShopHaveNewOrder>
+  <ReceiveBonus>3</ReceiveBonus>
+  <LimitTimeBuy>3</LimitTimeBuy>
+  <SubscribeLimitTimeBuy>3</SubscribeLimitTimeBuy>
+  <FightGroupOpenSuccess>3</FightGroupOpenSuccess>
+  <FightGroupJoinSuccess>3</FightGroupJoinSuccess>
+  <FightGroupNewJoin>3</FightGroupNewJoin>
+  <FightGroupFailed>3</FightGroupFailed>
+  <FightGroupSuccess>3</FightGroupSuccess>
+  <SendCouponSuccess>1</SendCouponSuccess>
+</MessageStatus> 
+
+
+
+
+ 记录时间：2018-07-02 18:32:57,818 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetMessageStatus  
+错误描述：email3---eee 
+
+
+
+
+ 记录时间：2018-07-02 18:32:57,968 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 18:32:57,970 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
+
+
+
+ 记录时间：2018-07-02 18:32:58,025 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---sss 
+
+
+
+
+ 记录时间：2018-07-02 18:32:58,026 
+日志级别：  INFO  
+出错类：Himall.Plugin.Message.Email.EmailCore.GetConfig  
+错误描述：email1---eee 
+
